@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kmaki\\source\\repos\\MaksimovKE_03_11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00DFC51C-4790-4485-B106-A437474BEF96}|MaksimovKE_03_11\\MaksimovKE_03_11.vcxproj|C:\\Users\\kmaki\\source\\repos\\MaksimovKE_03_11\\MaksimovKE_03_11\\MaksimovKE_03_11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00DFC51C-4790-4485-B106-A437474BEF96}|MaksimovKE_03_11\\MaksimovKE_03_11.vcxproj|solutionrelative:MaksimovKE_03_11\\MaksimovKE_03_11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaksimovKE_03_11.cpp",
+              "DocumentMoniker": "C:\\Users\\kmaki\\source\\repos\\MaksimovKE_03_11\\MaksimovKE_03_11\\MaksimovKE_03_11.cpp",
+              "RelativeDocumentMoniker": "MaksimovKE_03_11\\MaksimovKE_03_11.cpp",
+              "ToolTip": "C:\\Users\\kmaki\\source\\repos\\MaksimovKE_03_11\\MaksimovKE_03_11\\MaksimovKE_03_11.cpp",
+              "RelativeToolTip": "MaksimovKE_03_11\\MaksimovKE_03_11.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-03T09:14:12.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
